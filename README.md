@@ -1,1 +1,1 @@
-# Text-Name-Entity-Recognizer-NLP-NER-spaCy-English
+# Text-Name-Entity-Recognizer-spaCy-English
