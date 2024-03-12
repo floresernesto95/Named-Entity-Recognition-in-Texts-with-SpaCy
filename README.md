@@ -1,1 +1,1 @@
-# Text-Name-Entity-Recognizer-spaCy-English
+# Text-Name-Entity-Recognizer-spaCy
