@@ -1,5 +1,9 @@
 # Text Named Entity Recognition
 
+<p align="center">
+  <img src="https://github.com/floresernesto95/Images/blob/main/portfolio%20-%20NER%204.png?raw=true"/>
+</p>
+
 ## Project Overview
 
 This project showcases a Named Entity Recognition (NER) application built using spaCy, Streamlit, and spacy_streamlit. The application provides a user-friendly interface for performing word tokenization and named entity recognition on input text. By leveraging the power of spaCy's natural language processing capabilities, the app efficiently identifies and visualizes named entities within the text.
