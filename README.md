@@ -1,4 +1,4 @@
-# Named Entity Recognition in Texts with SpaCy
+# Named Entity Recognition in Texts
 
 <p align="center">
   <img src="https://github.com/floresernesto95/Images/blob/main/portfolio%20-%20NER%204.png?raw=true"/>
